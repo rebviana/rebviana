@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rebviana"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/rebviana"><img src="https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://medium.com/@rebviana"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://discord.gg/yourinvite"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:rborgesviana@gmail.com"><img src="https://img.shields.io/badge/-Email-d64b4b?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-4a5568?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center" style="max-width: 600px; margin: 20px auto; color: #718096;">
