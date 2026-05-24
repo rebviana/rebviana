@@ -29,49 +29,42 @@ I also participate in a **Start Research** group focused on Data Science, AI and
 
 **Data platform**
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
-![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-3e517a?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-3e517a?style=for-the-badge&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-3e517a?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-3e517a?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-3e517a?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Analytics & BI**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-3e517a?style=for-the-badge&logo=powerbi&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-3e517a?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3e517a?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Languages & tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3e517a?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3e517a?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-3e517a?style=for-the-badge&logo=streamlit&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-3e517a?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **AI & LLMs**
 
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-3e517a?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-3e517a?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-3e517a?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3e517a?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-3e517a?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-3e517a?style=for-the-badge&logo=ollama&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3e517a?style=for-the-badge&logoColor=white)
 
 ---
 
 ## Currently exploring
 
-```text
-🤖  LLM + enterprise data   →  Natural language interface for lakehouse queries
-                                (Claude API + Streamlit + Databricks Apps)
-
-📦  Databricks Asset Bundles →  CI/CD and deployment patterns for data pipelines
-
-🏛️  Unity Catalog governance →  Data lineage, access control and catalog-as-code
-
-🖥️  AI & Computer Vision    →  Research with the Start Research group
-```
+- 🤖 **LLM + enterprise data** — Natural language interface for lakehouse queries (Claude API + Streamlit + Databricks Apps)
+- 📦 **Databricks Asset Bundles** — CI/CD and deployment patterns for data pipelines
+- 🏛️ **Unity Catalog governance** — Data lineage, access control and catalog-as-code
 
 ---
 
@@ -96,13 +89,5 @@ I also participate in a **Start Research** group focused on Data Science, AI and
 ![GitHub streak](https://streak-stats.demolab.com?user=rebviana&hide_border=true&ring=FF3621&fire=FF3621&currStreakLabel=3e517a&sideLabels=3e517a&dates=718096)
 
 ![Profile views](https://komarev.com/ghpvc/?username=rebviana&color=FF3621&style=flat-square&label=profile+views)
-
-</div>
-
----
-
-<div align="center">
-
-*Always learning. Always building.*
 
 </div>
