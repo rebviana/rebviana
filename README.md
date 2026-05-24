@@ -17,9 +17,9 @@
 
 ## About
 
-Over the past decade at **ZEISS Vision Brasil**, I built the data infrastructure that powers commercial, marketing, operations and financial decisions across the company — from raw ingestion pipelines to governed lakehouses to executive dashboards.
+Over 10 years in technology — the last 5 focused on data, and the last 3 leading teams. I built the data infrastructure that powers commercial, marketing, operations and financial decisions across a global company — from raw ingestion pipelines to governed lakehouses to executive dashboards.
 
-Today, my focus has shifted: I'm actively building toward the AI layer through hands-on projects and structured coursework. I lead a team of seven across data engineering, BI and analytics, governing a lakehouse on Azure Databricks with Unity Catalog and Medallion Architecture at its core.
+Today, I'm actively building toward the AI layer: developing natural language interfaces that let non-technical users query enterprise data through hands-on projects and structured coursework — applying Claude API, Streamlit and Databricks Apps to close the gap between complex data infrastructure and everyday business users. I lead a team of seven across data engineering, BI and analytics, governing a lakehouse on Azure Databricks with Unity Catalog and Medallion Architecture at its core.
 
 I'm actively pursuing a senior role at the intersection of data engineering and AI — remote or international.
 
@@ -82,6 +82,9 @@ I'm actively pursuing a senior role at the intersection of data engineering and 
 <div align="center">
 
 ## Let's connect
+
+*Senior data engineering · data platform architecture · AI-powered data systems*
+*Remote or relocation — open to both.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebviana/)
 [![Email](https://img.shields.io/badge/Send_me_an_email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rborgesviana@gmail.com)
