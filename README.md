@@ -19,7 +19,7 @@
 
 Over the past decade at **ZEISS Vision Brasil**, I built the data infrastructure that powers commercial, marketing, operations and financial decisions across the company — from raw ingestion pipelines to governed lakehouses to executive dashboards.
 
-Today, my focus has shifted: I design AI-powered interfaces that let non-technical users query enterprise data through natural language. I lead a team of seven across data engineering, BI and analytics, governing a lakehouse on Azure Databricks with Unity Catalog and Medallion Architecture at its core.
+Today, my focus has shifted: I'm actively building toward the AI layer through hands-on projects and structured coursework. I lead a team of seven across data engineering, BI and analytics, governing a lakehouse on Azure Databricks with Unity Catalog and Medallion Architecture at its core.
 
 I'm actively pursuing a senior role at the intersection of data engineering and AI — remote or international.
 
