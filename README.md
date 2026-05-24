@@ -2,7 +2,7 @@
 
 # Renata Viana
 
-**Data & Analytics Lead · Azure Databricks · Power BI · AI**
+**Data & Analytics Lead · Azure Databricks · AI**
 
 Coordinating data engineering, BI and analytics at ZEISS Vision Brasil.<br>
 Building AI-powered solutions that bring intelligence to enterprise data.
