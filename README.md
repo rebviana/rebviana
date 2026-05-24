@@ -2,26 +2,45 @@
 
 # Renata Viana
 
-**Data & Analytics Lead · Azure Databricks · AI**
+**Data & Analytics Lead · Azure · Databricks · AI**
 
-Coordinating data engineering, BI and analytics at ZEISS Vision Brasil.<br>
-Building AI-powered solutions that bring intelligence to enterprise data.
+*10 years turning enterprise data into decisions.*
+*Now making it answer questions in plain language.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rebviana-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebviana/)
 [![Email](https://img.shields.io/badge/Email-rborgesviana@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rborgesviana@gmail.com)
-[![Location](https://img.shields.io/badge/Brazil-009c3b?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Brazil](https://img.shields.io/badge/Brazil-009c3b?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I'm a Data & Analytics Lead with **10+ years at ZEISS Vision Brasil**, where I coordinate a team of seven across data engineering, BI and analytics — serving commercial, marketing, operations, products and finance.
+Over the past decade at **ZEISS Vision Brasil**, I built the data infrastructure that powers commercial, marketing, operations and financial decisions across the company — from raw ingestion pipelines to governed lakehouses to executive dashboards.
 
-I design and govern the company's data lakehouse on Azure and Databricks (Medallion Architecture, Unity Catalog, Delta Lake), and I'm currently building AI-powered tools that let business users interact with enterprise data through natural language.
+Today, my focus has shifted: I design AI-powered interfaces that let non-technical users query enterprise data through natural language. I lead a team of seven across data engineering, BI and analytics, governing a lakehouse on Azure Databricks with Unity Catalog and Medallion Architecture at its core.
 
-I also participate in a **Start Research** group focused on Data Science, AI and Computer Vision, and I'm actively building toward an international career in data and AI.
+I'm actively pursuing a senior role at the intersection of data engineering and AI — remote or international.
+
+---
+
+## Portfolio
+
+> Most of my production work lives inside ZEISS private repositories.
+> These are the projects I'm building publicly to demonstrate my craft:
+
+| Project | Problem it solves | Stack | Status |
+|---------|-------------------|-------|--------|
+| [`pbi-automator`](#) | Eliminates manual report building — generates production-ready Power BI files programmatically via PBIP / TMDL | Python | 🔜 Coming soon |
+| [`weather-collector`](#) | End-to-end ETL built from scratch: ingests public weather APIs, stores structured data, exposes analytics-ready output | Python · APIs | 🔜 Coming soon |
+| [`claude-chatbot-demo`](#) | Ask questions in plain language, get data back — natural language interface over structured data via Claude API + Streamlit | Python · Claude API | 🔜 Coming soon |
+
+## Learning in public
+
+| Project | What I'm exploring | Stack | Status |
+|---------|--------------------|-------|--------|
+| [`data_science`](https://github.com/rebviana/data_science) | ML fundamentals, statistics and Python for data — tracked openly as I build | Python · Jupyter | 🟡 Active |
 
 ---
 
@@ -60,34 +79,11 @@ I also participate in a **Start Research** group focused on Data Science, AI and
 
 ---
 
-## Currently exploring
-
-- 🤖 **LLM + enterprise data** — Natural language interface for lakehouse queries (Claude API + Streamlit + Databricks Apps)
-- 📦 **Databricks Asset Bundles** — CI/CD and deployment patterns for data pipelines
-- 🏛️ **Unity Catalog governance** — Data lineage, access control and catalog-as-code
-
----
-
-## Public projects
-
-> Most of my daily work lives in proprietary enterprise systems at ZEISS.
-> Here's what I'm building and sharing openly:
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [data_science](https://github.com/rebviana/data_science) | Data science notebooks and learning projects | Python · Jupyter | 🟡 Active |
-| `pbi-automator` | Automated Power BI report generation via PBIP / TMDL | Python | 🔜 Coming soon |
-| `weather-collector` | ETL pipeline: collecting, storing and analyzing weather data | Python · APIs | 🔜 Coming soon |
-| `claude-chatbot-demo` | Minimal LLM chatbot with Claude API + Streamlit | Python · Claude API | 🔜 Coming soon |
-
----
-
-## GitHub activity
-
 <div align="center">
 
-![GitHub streak](https://streak-stats.demolab.com?user=rebviana&hide_border=true&ring=FF3621&fire=FF3621&currStreakLabel=3e517a&sideLabels=3e517a&dates=718096)
+## Let's connect
 
-![Profile views](https://komarev.com/ghpvc/?username=rebviana&color=FF3621&style=flat-square&label=profile+views)
+[![LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebviana/)
+[![Email](https://img.shields.io/badge/Send_me_an_email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rborgesviana@gmail.com)
 
 </div>
